@@ -1,5 +1,5 @@
 # Writing a For Loop in JavaScript
-![header image](https://images.unsplash.com/photo-1687603921109-46401b201195?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3)
+![header image](https://articles.geekster.in/wp-content/uploads/2024/04/7-3.png)
 
 In JavaScript, **loops** allow you to repeat a block of code multiple times, which makes your code shorter, cleaner, and easier to manage.  
 The **`for` loop** is one of the most commonly used loop structures.
@@ -55,4 +55,3 @@ For more about loops in JavaScript, check the MDN docs:
 [MDN for loop guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 ```
 
-هل تريد أن أعمل لك بنفس الطريقة مربع واحد لكن لشرح **`for...of` loop** أيضًا؟ سيكون جاهز للنسخ.
