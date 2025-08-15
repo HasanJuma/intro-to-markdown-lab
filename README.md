@@ -53,5 +53,5 @@ For loops are often used for:
 
 For more about loops in JavaScript, check the MDN docs:  
 [MDN for loop guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
-```
+
 
